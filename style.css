@@ -1,0 +1,207 @@
+body {
+
+font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+.pertama{
+  margin-top: 8rem;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid black;
+  background-color: white;
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  top: 0;
+}
+
+.nama{
+  margin-left: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.menu{
+  margin-right: 5%;
+}
+
+.menu a{
+  text-decoration: none;
+  margin: 0.5rem;
+  color: black;
+}
+
+.go{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section{
+  margin: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picku img{
+  width: 150px;
+  border-radius: 50%;
+}
+
+.tes img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.tes{
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  
+}
+
+.div2 h1{
+  text-align: center;
+}
+
+.ins{
+  background-color: black;
+  padding: 1rem 2rem;
+  margin-bottom: 1rem
+}
+
+.ket a{
+  color: white;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+
+.sec2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.sec2 .mel{
+  margin: 0;
+  margin-top: 3rem;
+  padding: 0;
+}
+
+.sec2 .pel{
+  margin: 0;
+  margin-bottom: 1rem;
+  padding: 0;
+}
+
+.div2{
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  background-color: white;
+}
+
+.suka{
+  display: flex;
+  gap: 2rem;
+}
+
+
+
+.judul{
+  margin: 0;
+  text-align: center;
+  padding: 0;
+}
+
+.kata{
+  text-align: center;
+}
+
+.kata h1{
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.kata p{
+  margin: 0;
+}
+
+.ket h1{
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.ket p{
+  margin: 1rem;
+  padding: 0;
+}
+
+.ket{
+  border-radius: 20px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+  background-color: white;
+}
+
+.suka p img{
+  width: 20px;
+}
+
+.hati{
+  display: flex;
+  align-items: center;
+}
+
+.hati img{
+  margin: 4px;
+}
+
+.bagi img{
+  margin: 4px;
+}
+.bagi{
+  display: flex;
+  align-items: center;
+}
+
+.fot{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.icon a img{
+  width: 20px
+}
+
+.icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+footer{
+  background-color: white;
+  border-top: 2px solid black;
+}
+
+.tes h1{
+  font-size: 1rem;
+}
+
